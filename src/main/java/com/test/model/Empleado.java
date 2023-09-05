@@ -27,7 +27,10 @@ public class Empleado {
 	private String apellidoP;
 	
 	private String apellidoM;
-
+	
+	private String direccion;
+	
+	private String codigoPostal;
 
 	
 }
